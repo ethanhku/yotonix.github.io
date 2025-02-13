@@ -96,13 +96,8 @@ p {
 }
 
 .footer{
-    position: fixed;
-    bottom: 20px;
-    left: 0;
-    right: 0;
-    text-align: center;
-    background-color: black;
-    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 50px;
 }
 
 /*small phone*/

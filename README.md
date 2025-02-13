@@ -6,3 +6,5 @@ This is the website for Ethan Ku's AMCULT 352 Term Project
 2) Media - photos and video from this year's show
 3) Thoughts before and after
 4) Differences between Yotonix and guest performances
+
+Things done outside of github + date:

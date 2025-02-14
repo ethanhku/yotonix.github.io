@@ -97,6 +97,15 @@ p {
     margin: 0 auto;
 }
 
+.side-by-side-revo-photo{
+    display: flex;
+    justify-content: center;
+    gap: 370px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
 .column{
     flex: 1;
     text-align: left;

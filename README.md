@@ -1,6 +1,8 @@
 ##AMCULT 352 WN '25 Term Project - Yotonix 2025
 This is the website for Ethan Ku's AMCULT 352 Term Project
 
+This project aims to study "How is Yotonix, as an inherently non-culturally-specific performance, still significant in comparison to other culture shows on campus, such as DVN and Celebrasia."
+
 #Sections to add:
 1) My thoughts
 2) Media - photos and video from this year's show

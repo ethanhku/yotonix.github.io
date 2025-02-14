@@ -7,5 +7,6 @@ This is the website for Ethan Ku's AMCULT 352 Term Project
 3) Thoughts before and after
 4) Differences between Yotonix and guest performances
 5) Why do I need to make this? (Not just a culture show, have a lot of those already, MAASU article, panethnic ideas because doesn't identify just one)
+6) Snipes - culture of the performance groups, sister groups, etc...
 
 Things done outside of github + date:

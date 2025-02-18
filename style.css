@@ -111,7 +111,7 @@ a{
 .side-by-side-revo-photo{
     display: flex;
     justify-content: center;
-    gap: 950px;
+    gap: 750px;
     max-width: 1500px;
     margin: 0 auto;
     padding-top: 20px;

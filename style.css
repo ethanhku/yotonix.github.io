@@ -130,6 +130,28 @@ a{
     padding-top: 20px;
 }
 
+.too-wide{
+    max-width: 1200px;
+}
+
+.circle-icon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 25px;
+}
+
+.circle-icon2{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+
 .custom-hr{
     border: none;
     height: 2px;

@@ -134,6 +134,10 @@ a{
     max-width: 1200px;
 }
 
+.still-too-wide{
+    max-width: 730px;
+}
+
 .circle-icon{
     width: 70px;
     height: 70px;

@@ -21,9 +21,9 @@ h1 {
     color: rgb(212, 212, 212);
 /*centering*/
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 1px;
     font-size: 500%;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 p {
@@ -100,10 +100,15 @@ a{
     height: auto;
 }
 
+.large_img{
+    width: 1300px;
+    height: auto;
+}
+
 .side-by-side{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 10px;
     max-width: 1000px;
     margin: 0 auto;
 }
@@ -111,7 +116,7 @@ a{
 .side-by-side-revo-photo{
     display: flex;
     justify-content: center;
-    gap: 750px;
+    gap: 650px;
     max-width: 1500px;
     margin: 0 auto;
     padding-top: 20px;

@@ -32,6 +32,10 @@ p {
     margin-bottom: 8px;
 }
 
+.p-small{
+    margin-bottom: 2px;
+}
+
 a{
     color: white;
     font-weight: bold;

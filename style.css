@@ -65,6 +65,18 @@ a{
     justify-content: center;
 }
 
+.setlist-box{
+    border: 1px solid;
+    padding: 5px 20px 15px;
+    display: block;
+    max-width: 1500px;
+    font-size: 100%;
+    margin: 10px auto;
+    border-radius: 8px;
+    flex: 1;
+    justify-content: center;
+}
+
 .bullet-point{
     border: 1px solid;
     padding: 10px;

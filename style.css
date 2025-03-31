@@ -151,6 +151,10 @@ a{
     padding-top: 20px;
 }
 
+.smaller-analysis{
+    width: 700px;
+}
+
 .too-wide{
     max-width: 1200px;
 }

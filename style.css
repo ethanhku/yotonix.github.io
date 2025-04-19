@@ -138,6 +138,19 @@ a{
     padding-top: 20px;
 }
 
+.video-threerow {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 1rem;
+  }
+  
+  .video-threerow iframe {
+    flex: 1 1 calc(33.333% - 1rem);
+    height: auto;
+    min-width: 100px;
+  }
+
 .column{
     flex: 1;
     text-align: left;
